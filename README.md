@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the science of data....it's exciting...
 - 💞️ I’m looking to collaborate on .any projects that involve data approach..
 - 📫 How to reach me .@lilian.k.mwabebe@gmail.com..
-- 😄 Pronouns: .she/her..
+- 😄
 - ⚡ Fun fact: .data fascinates me...the stories data tells..
 
 <!---
